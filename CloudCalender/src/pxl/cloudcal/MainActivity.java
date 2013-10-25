@@ -102,7 +102,7 @@ public class MainActivity extends FragmentActivity implements
 	    @Override
 	    protected void onPreExecute() {        
 	        super.onPreExecute();
-	        dialog.setMessage("Downloading contacts...");
+	        dialog.setMessage("Downloading items...");
 	        dialog.setIndeterminate(false);
 	        dialog.show();            
 	    }
