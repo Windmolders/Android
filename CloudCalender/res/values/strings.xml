@@ -3,4 +3,8 @@
     <string name="app_name">Cloud Calender</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    
+    
+    <!-- add fragment -->
+    <string name="afspraakTitel">Titel van de afspraak</string>
 </resources>
