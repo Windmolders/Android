@@ -36,7 +36,7 @@ public class ItemRestClient {
 
 	private ItemRestClient() {
 		//10.0.2.2 is the localhost address. If you type localhost this will be the localhost of the emulator.
-		this.BASE_URL = "http://10.0.2.2:8084/WSCloudCal/webresources/Items";
+		this.BASE_URL = "http://10.0.2.2:8084/WSCloudCal/webresources/item";
 		this.ADD_Item = "/addItem";
 	}
 	
